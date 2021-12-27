@@ -1,0 +1,2 @@
+flutter create --org br.com.foxcloud barberapp
+get create page:home
